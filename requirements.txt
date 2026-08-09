@@ -10,3 +10,4 @@ s2sphere==0.2.4
 geopy==1.11.0
 requests==2.9.1
 protobuf==2.6.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
